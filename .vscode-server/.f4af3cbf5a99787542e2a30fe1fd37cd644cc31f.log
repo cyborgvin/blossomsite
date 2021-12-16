@@ -1,0 +1,34 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 44789
+
+[09:05:01] Extension host agent started.
+[09:05:01] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[09:05:01] [127.0.0.1][d8a343cc][ExtensionHostConnection] New connection established.
+[09:05:01] [127.0.0.1][a314609f][ManagementConnection] New connection established.
+[09:05:01] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[09:05:01] [127.0.0.1][d8a343cc][ExtensionHostConnection] <1664> Launched Extension Host Process.
+[09:05:02] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[09:05:04] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[09:05:04] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932
+[09:05:07] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[09:05:07] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 9, signal null)
+    at /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:85:55598
+    at async /home/ubuntu/.vscode-server/bin/f4af3cbf5a99787542e2a30fe1fd37cd644cc31f/out/vs/server/remoteExtensionHostAgent.js:77:21932

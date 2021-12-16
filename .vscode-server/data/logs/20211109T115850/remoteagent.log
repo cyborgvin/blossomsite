@@ -1,0 +1,24 @@
+[2021-11-09 11:58:50.499] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-09 11:58:50.499] [remoteagent] [info] Extension host agent started.
+[2021-11-09 11:58:50.847] [remoteagent] [info] [127.0.0.1][2fd1d23e][ManagementConnection] New connection established.
+[2021-11-09 11:58:50.852] [remoteagent] [info] [127.0.0.1][b97ac5cd][ExtensionHostConnection] New connection established.
+[2021-11-09 11:58:50.857] [remoteagent] [info] [127.0.0.1][b97ac5cd][ExtensionHostConnection] <1493> Launched Extension Host Process.
+[2021-11-09 11:58:56.829] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-11-09 13:58:35.005] [remoteagent] [info] [127.0.0.1][60f810f7][ManagementConnection] New connection established.
+[2021-11-09 13:58:35.070] [remoteagent] [info] [127.0.0.1][c67ae379][ExtensionHostConnection] New connection established.
+[2021-11-09 13:58:35.084] [remoteagent] [info] [127.0.0.1][c67ae379][ExtensionHostConnection] <6250> Launched Extension Host Process.
+[2021-11-09 13:58:40.559] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-11-09 14:00:39.847] [remoteagent] [info] [127.0.0.1][60f810f7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-09 14:00:40.870] [remoteagent] [info] [127.0.0.1][c67ae379][ExtensionHostConnection] <6250> Extension Host Process exited with code: 0, signal: null.
+[2021-11-09 15:05:48.994] [remoteagent] [info] [127.0.0.1][2fd1d23e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-09 15:05:50.033] [remoteagent] [info] [127.0.0.1][b97ac5cd][ExtensionHostConnection] <1493> Extension Host Process exited with code: 0, signal: null.
+[2021-11-09 15:05:50.033] [remoteagent] [info] Last EH closed, waiting before shutting down

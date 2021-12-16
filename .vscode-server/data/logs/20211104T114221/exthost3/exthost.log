@@ -1,0 +1,28 @@
+[2021-11-04 11:42:56.759] [exthost] [info] extension host started
+[2021-11-04 11:42:56.810] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/3de4cde06620884c0aeaa38d36af1973/vscode.lock': Lock acquired.
+[2021-11-04 11:42:56.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-04 11:42:56.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/debug-auto-launch/dist/extension
+[2021-11-04 11:42:57.007] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-04 11:42:57.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/git/dist/main
+[2021-11-04 11:42:57.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-04 11:42:57.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/github/dist/extension.js
+[2021-11-04 11:42:58.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 11:42:58.108] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-04 11:42:58.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 11:42:58.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-04 11:42:58.174] [exthost] [info] eager extensions activated
+[2021-11-04 11:42:58.236] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-04 11:42:58.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-04 11:45:47.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2021-11-04 11:45:47.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/php-language-features/dist/phpMain
+[2021-11-04 11:55:05.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-04 11:55:05.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-04 11:55:05.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-04 11:55:05.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/extension-editing/dist/extensionEditingMain
+[2021-11-04 11:55:05.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-04 11:55:05.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-04 11:55:05.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-04 11:55:05.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/npm/dist/npmMain
+[2021-11-04 12:29:44.674] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-04 12:29:44.676] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/3de4cde06620884c0aeaa38d36af1973/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-04 12:29:45.695] [exthost] [info] exiting with code 0

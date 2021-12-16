@@ -1,0 +1,21 @@
+[2021-11-23 09:05:01.111] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-23 09:05:01.111] [remoteagent] [info] Extension host agent started.
+[2021-11-23 09:05:01.352] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2021-11-23 09:05:01.399] [remoteagent] [info] [127.0.0.1][d8a343cc][ExtensionHostConnection] New connection established.
+[2021-11-23 09:05:01.400] [remoteagent] [info] [127.0.0.1][a314609f][ManagementConnection] New connection established.
+[2021-11-23 09:05:01.401] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-23 09:05:01.404] [remoteagent] [info] [127.0.0.1][d8a343cc][ExtensionHostConnection] <1664> Launched Extension Host Process.
+[2021-11-23 09:05:02.457] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-23 09:05:04.836] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-23 09:05:04.868] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-23 09:05:07.178] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-11-23 09:05:07.370] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}

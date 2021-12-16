@@ -1,0 +1,35 @@
+[2021-11-04 11:42:21.235] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-04 11:42:21.235] [remoteagent] [info] Extension host agent started.
+[2021-11-04 11:42:21.586] [remoteagent] [info] [127.0.0.1][307d43f2][ExtensionHostConnection] New connection established.
+[2021-11-04 11:42:21.587] [remoteagent] [info] [127.0.0.1][f1c00f55][ManagementConnection] New connection established.
+[2021-11-04 11:42:21.591] [remoteagent] [info] [127.0.0.1][307d43f2][ExtensionHostConnection] <2402> Launched Extension Host Process.
+[2021-11-04 11:42:47.760] [remoteagent] [info] [127.0.0.1][f1c00f55][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 11:42:48.782] [remoteagent] [info] [127.0.0.1][307d43f2][ExtensionHostConnection] <2402> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 11:42:48.782] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-04 11:42:50.318] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-11-04 11:42:50.318] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-04 11:42:50.464] [remoteagent] [info] [127.0.0.1][5c3adfc0][ManagementConnection] New connection established.
+[2021-11-04 11:42:50.524] [remoteagent] [info] [127.0.0.1][9f39bd56][ExtensionHostConnection] New connection established.
+[2021-11-04 11:42:50.538] [remoteagent] [info] [127.0.0.1][9f39bd56][ExtensionHostConnection] <2551> Launched Extension Host Process.
+[2021-11-04 11:42:50.640] [remoteagent] [info] [127.0.0.1][5c3adfc0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 11:42:54.721] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-11-04 11:42:54.721] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-04 11:42:54.843] [remoteagent] [info] [127.0.0.1][1709fb23][ManagementConnection] New connection established.
+[2021-11-04 11:42:54.951] [remoteagent] [info] [127.0.0.1][d91d5475][ExtensionHostConnection] New connection established.
+[2021-11-04 11:42:54.961] [remoteagent] [info] [127.0.0.1][d91d5475][ExtensionHostConnection] <2703> Launched Extension Host Process.
+[2021-11-04 11:43:00.128] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-11-04 11:47:54.723] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-04 11:47:55.068] [remoteagent] [info] [127.0.0.1][9f39bd56][ExtensionHostConnection] <2551> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 12:29:44.675] [remoteagent] [info] [127.0.0.1][1709fb23][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 12:29:45.708] [remoteagent] [info] [127.0.0.1][d91d5475][ExtensionHostConnection] <2703> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 12:29:45.708] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-04 12:34:45.709] [remoteagent] [info] Last EH closed, shutting down

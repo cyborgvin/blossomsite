@@ -1,0 +1,33 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 42481
+
+[14:09:45] Extension host agent started.
+[14:09:45] [127.0.0.1][ed0cd9e0][ManagementConnection] New connection established.
+[14:09:45] [127.0.0.1][7ec06cad][ExtensionHostConnection] New connection established.
+[14:09:45] [127.0.0.1][7ec06cad][ExtensionHostConnection] <1549> Launched Extension Host Process.
+[14:09:51] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[15:16:54] [127.0.0.1][ed0cd9e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:81:9494)
+    at Object.call (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:81:9331)
+    at Object.call (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:80:7515)
+    at Proxy.<anonymous> (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:80:8954)
+    at I.watch (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:85:69292)
+    at s.doWatch (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/ubuntu/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostAgent.js:77:12926
+[15:16:55] [127.0.0.1][7ec06cad][ExtensionHostConnection] <1549> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:16:55] Last EH closed, waiting before shutting down
